@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+
+Hi people!
+
+My name is Paweł and I'm from Poland.
